@@ -20,8 +20,6 @@ The purpose is to practice basic application creation skills using the famous He
 
 The development environment includes:
 a) Visual Studio Code.
-b) ASP.NET with MVC.
-c) A structured database.
 
 #Programming Language
 
