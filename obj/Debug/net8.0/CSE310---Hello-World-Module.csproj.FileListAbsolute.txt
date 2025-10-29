@@ -1,0 +1,15 @@
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\bin\Debug\net8.0\CSE310---Hello-World-Module.exe
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\bin\Debug\net8.0\CSE310---Hello-World-Module.deps.json
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\bin\Debug\net8.0\CSE310---Hello-World-Module.runtimeconfig.json
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\bin\Debug\net8.0\CSE310---Hello-World-Module.dll
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\bin\Debug\net8.0\CSE310---Hello-World-Module.pdb
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\obj\Debug\net8.0\CSE310---Hello-World-Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\obj\Debug\net8.0\CSE310---Hello-World-Module.AssemblyInfoInputs.cache
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\obj\Debug\net8.0\CSE310---Hello-World-Module.AssemblyInfo.cs
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\obj\Debug\net8.0\CSE310---Hello-World-Module.csproj.CoreCompileInputs.cache
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\obj\Debug\net8.0\CSE310---Hello-World-Module.sourcelink.json
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\obj\Debug\net8.0\CSE310---Hello-World-Module.dll
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\obj\Debug\net8.0\refint\CSE310---Hello-World-Module.dll
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\obj\Debug\net8.0\CSE310---Hello-World-Module.pdb
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\obj\Debug\net8.0\CSE310---Hello-World-Module.genruntimeconfig.cache
+C:\Users\cmrs\OneDrive - PETROBRAS\Documents\GitHub\CSE-310\CSE310---Hello-World-Module\obj\Debug\net8.0\ref\CSE310---Hello-World-Module.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSE310---Hello-World-Module")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7b6326d179b53173e0fa2c5a10dd307890c036c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ca5b859b8fae3692db7029c338ccece5b43ada")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSE310---Hello-World-Module")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSE310---Hello-World-Module")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
