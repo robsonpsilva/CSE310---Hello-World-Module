@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE-310\\CSE310---Hello-World-Module\\CSE310---Hello-World-Module.csproj": {}
+    "/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/cse310/CSE310---Hello-World-Module/CSE310---Hello-World-Module.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE-310\\CSE310---Hello-World-Module\\CSE310---Hello-World-Module.csproj": {
+    "/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/cse310/CSE310---Hello-World-Module/CSE310---Hello-World-Module.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE-310\\CSE310---Hello-World-Module\\CSE310---Hello-World-Module.csproj",
+        "projectUniqueName": "/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/cse310/CSE310---Hello-World-Module/CSE310---Hello-World-Module.csproj",
         "projectName": "CSE310---Hello-World-Module",
-        "projectPath": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE-310\\CSE310---Hello-World-Module\\CSE310---Hello-World-Module.csproj",
-        "packagesPath": "C:\\Users\\cmrs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cmrs\\OneDrive - PETROBRAS\\Documents\\GitHub\\CSE-310\\CSE310---Hello-World-Module\\obj\\",
+        "projectPath": "/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/cse310/CSE310---Hello-World-Module/CSE310---Hello-World-Module.csproj",
+        "packagesPath": "/Users/robsonpaulodasilva/.nuget/packages/",
+        "outputPath": "/Users/robsonpaulodasilva/Library/CloudStorage/GoogleDrive-robson_p_s@yahoo.com.br/Meu Drive/Estudo/BYU/cse310/CSE310---Hello-World-Module/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\cmrs\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/robsonpaulodasilva/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
