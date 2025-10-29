@@ -18,12 +18,14 @@ The purpose is to practice basic application creation skills using the famous He
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The development environment includes:
+a) Visual Studio Code.
 
-{Describe the programming language that you used}
+#Programming Language
+
+C# (C Sharp) is a modern, object-oriented, and statically-typed programming language created by Microsoft as the primary language for the versatile .NET framework. Designed for reliability and performance, it combines C++ syntax with the safety features of Java. C# is cross-platform and widely used for developing powerful web backends/APIs, desktop applications, and video games (especially with the Unity engine), offering a balance between developer productivity and enterprise-level system control.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Microsoft Ignite](https://learn.microsoft.com/en-us/dotnet/csharp/)
+* [Programiz](https://www.programiz.com/csharp-programming)
